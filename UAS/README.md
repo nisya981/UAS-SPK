@@ -20,7 +20,7 @@ get recommendations saw
 <img src='img/Screenshot SPK UAS(9).png' alt='recommendations saw'/>
 
 get recommendations wp
-<img src='img/Sreenshot SPK UAS(10).png' alt='recommendations wp'/>
+<img src='img/Screenshot SPK UAS(10).png' alt='recommendations wp'/>
 
 ### TUGAS UAS
 Implementasikan model yang sudah anda buat ke dalam web api dengan http method `POST`
