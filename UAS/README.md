@@ -37,7 +37,7 @@ INPUT:
 OUTPUT (diurutkan / sort dari yang terbesar ke yang terkecil):
 
 post recommendations saw
-<img src='img/Sreenshot SPK UAS(11).png' alt='recommendations saw'/>
+<img src='img/Screenshot SPK UAS(11).png' alt='recommendations saw'/>
 
 post recommendations wp
-<img src='img/Sreenshot SPK UAS(12).png' alt='recommendations wp'/>
+<img src='img/Screenshot SPK UAS(12).png' alt='recommendations wp'/>
