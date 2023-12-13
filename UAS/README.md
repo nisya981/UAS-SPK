@@ -17,7 +17,7 @@ get laptop list
 <img src='img/get_laptop.png' alt='laptop list'/>
 
 get recommendations saw
-<img src='img/get_saw.png' alt='recommendations saw'/>
+<img src='img/Screenshot SPK UAS(2).png' alt='recommendations saw'/>
 
 get recommendations wp
 <img src='img/get_wp.png' alt='recommendations wp'/>
