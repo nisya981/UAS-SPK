@@ -14,7 +14,7 @@ Install postman
 https://www.postman.com/downloads/
 
 get ponsel list
-<img src='img/get_ponsel.png' alt='ponsel list'/>
+<img src='img/get_laptop.png' alt='laptop list'/>
 
 get recommendations saw
 <img src='img/get_saw.png' alt='recommendations saw'/>
@@ -28,10 +28,10 @@ Implementasikan model yang sudah anda buat ke dalam web api dengan http method `
 INPUT:
 {
     "harga": 1, 
-    "kualitas_kamera": 2, 
+    "ram": 2, 
     "kapasitas_baterai": 5, 
-    "kinerja": 3, 
-    "ukuran_layar": 4
+    "processor": 3, 
+    "penyimpanan_internal": 4
 }
 
 OUTPUT (diurutkan / sort dari yang terbesar ke yang terkecil):
