@@ -29,9 +29,9 @@ INPUT:
 {
     "harga": 1, 
     "ram": 2, 
-    "kapasitas_baterai": 5, 
+    "kapasitas_baterai": 4, 
     "processor": 3, 
-    "penyimpanan_internal": 4
+    "penyimpanan_internal": 5
 }
 
 OUTPUT (diurutkan / sort dari yang terbesar ke yang terkecil):
