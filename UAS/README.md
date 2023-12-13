@@ -13,7 +13,7 @@ to run the web app simply  use
 Install postman 
 https://www.postman.com/downloads/
 
-get ponsel list
+get laptop list
 <img src='img/get_laptop.png' alt='laptop list'/>
 
 get recommendations saw
